@@ -6,6 +6,7 @@ Website:-https://vineet-jakhar.github.io/Personal-Website/
 <br><br><br>
 
 More work on:-<br>
+- Theme change
 - Background pic
 - form submission
 - CV file
