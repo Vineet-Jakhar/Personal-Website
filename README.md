@@ -11,3 +11,4 @@ More work on:-<br>
 - form submission
 - CV file
 - some code corrections
+- add video in login page's link
