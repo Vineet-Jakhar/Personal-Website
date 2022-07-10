@@ -3,7 +3,7 @@
 Personal portfolio | HTML | CSS | Js
 
 Website:-https://vineet-jakhar.github.io/Personal-Website/
-<br><br><br>
+<br><br>
 
 More work on:-<br>
 - Theme change
