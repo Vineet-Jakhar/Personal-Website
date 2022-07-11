@@ -10,7 +10,9 @@ Live on:-<br>
 More work on:-<br>
 - Theme change
 - Background pic
-- form submission via PHP
 - CV file
 - some code corrections
 - add new projects
+
+Info:-<br>
+- Uses Netlify Forms to send Emails
