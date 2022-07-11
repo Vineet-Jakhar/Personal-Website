@@ -14,5 +14,15 @@ More work on:-<br>
 - some code corrections
 - add new projects
 
-Info:-<br>
-- Uses Netlify Forms to send Emails
+Netlify forms:-<br>
+- form type="submit" name="contact"  action="/contactsuccess.html" method="POST" data-netlify="true" netlify-honeypot="bot-field"
+- 'mail.php' is not linked anywhere
+
+
+
+<br>
+
+PHP forms:-<br>
+- form   action="mail.php" method="post" 
+- 'contactsuccess.html' is not linked anywhere<br>
+(no need of 'contactsuccess.html' page, already present in 'mail.php')
