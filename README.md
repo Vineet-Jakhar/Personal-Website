@@ -3,7 +3,7 @@
 Personal portfolio | HTML | CSS | Js
 
 Live on:-<br>
-- <b>Netlify:</b> https://bright-cannoli-1c7d7d.netlify.app/  (working contact form)
+- <b>Netlify:</b> https://vineet-jakhar.netlify.app/ (working contact form)
 - <b>Github:</b> https://vineet-jakhar.github.io/Personal-Website/
 <br><br>
 
